@@ -1,4 +1,4 @@
-This is a Frontend Application for Cloud7 Price Calculator 
+This is a cloud pricing calculator app like [Linode](https://www.linode.com/cloud-pricing-calculator/)
 
 ## Getting Started
 
