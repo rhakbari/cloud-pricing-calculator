@@ -1,4 +1,4 @@
-This is a cloud pricing calculator app like [Linode](https://cloud-estimator.linode.com/s/). If you want to demo this applciation, it is running on this [Link](https://calculator.qcloud.pk/)
+This is a cloud pricing calculator app like [Linode](https://cloud-estimator.linode.com/s/). If you want to demo this application, it is running on this [Link](https://calculator.qcloud.pk/)
 
 ## Getting Started
 
